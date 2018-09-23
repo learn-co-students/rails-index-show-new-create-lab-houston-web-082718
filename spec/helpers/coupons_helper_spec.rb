@@ -9,7 +9,7 @@ require 'rails_helper'
 #       expect(helper.concat_strings("this","that")).to eq("this that")
 #     end
 #   end
+# # end
+# RSpec.describe CouponsHelper, type: :helper do
+#   pending "add some examples to (or delete) #{Coupon.create(coupon_code: "ASD123", store: "Chipotle")}"
 # end
-RSpec.describe CouponsHelper, type: :helper do
-  pending "add some examples to (or delete) #{__FILE__}"
-end
