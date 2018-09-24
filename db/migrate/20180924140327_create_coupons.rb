@@ -1,4 +1,3 @@
-
 class CreateCoupons < ActiveRecord::Migration
   def change
     create_table :coupons do |t|
@@ -7,6 +6,3 @@ class CreateCoupons < ActiveRecord::Migration
     end
   end
 end
-
-
-
